@@ -1,10 +1,10 @@
 {
-  "name": "Wiki.js",
-  "description": "An open source, modern and powerful wiki app built on Node.js, Git and Markdown.",
-  "repository": "https://github.com/requarks/wiki-heroku/tree/2.x",
+  "name": "AsiWiki",
+  "description": "Página Wiki para garenciamento de conhecimento da Asimov Jr",
+  "repository": "https://github.com/Asimovjr/AsiWiki",
   "logo": "https://static.requarks.io/logo/wikijs-butterfly.svg",
-  "keywords": ["node", "wiki", "heroku"],
-  "website": "https://wiki.js.org/",
+  "keywords": ["wiki", "asimovjr"],
+  "website": "https://www.asimovjr.com.br/",
   "success_url": "/",
   "addons": [
     {
