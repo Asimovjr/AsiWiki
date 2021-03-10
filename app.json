@@ -1,8 +1,8 @@
 {
   "name": "AsiWiki",
-  "description": "Página Wiki para garenciamento de conhecimento da Asimov Jr",
+  "description": "Wiki para gestão de conhecimento da Asimov Jr",
   "repository": "https://github.com/Asimovjr/AsiWiki",
-  "logo": "https://static.requarks.io/logo/wikijs-butterfly.svg",
+  "logo": "https://asimovjr.com.br/logo.png",
   "keywords": ["wiki", "asimovjr"],
   "website": "https://www.asimovjr.com.br/",
   "success_url": "/",
